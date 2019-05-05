@@ -159,6 +159,11 @@ public class KTP1
 		System.out.println("KABUPATEN BANDUNG");
 	}
 	
+	public void DC()
+	{
+		System.out.println("DESA SINDANGHURIP, KECAMATAN BANTARUJEG");
+	}
+	
 	//Overload
 	public void DC(String Desa, String Kec)
 	{
